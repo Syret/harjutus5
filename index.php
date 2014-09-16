@@ -67,5 +67,6 @@
 		<?php echo MAX_WIDTH;?><br>
 		<?php define("MAX_WIDTH", 500);?>
 		<?php echo MAX_WIDTH;?><br>
+		<?php  #MAX_WIDTH = MAX_WIDTH + 5;  ?>
 </body>
 </hmtl>
